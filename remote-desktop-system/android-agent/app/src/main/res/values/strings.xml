@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Agent</string>
+    <string name="accessibility_service_description">This service captures interaction events for remote monitoring.</string>
+</resources>
